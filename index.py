@@ -33,6 +33,7 @@ PLAYLISTS = {
     "sonylivplayer": "https://allplaylist.vercel.app/SONY_LIV.json",
     "zee5player": "https://allplaylist.vercel.app/ZEE5.json",
     "mxplayer": "https://allplaylist.vercel.app/MX_PLAYER.json",
+    "vootplayer": "https://allplaylist.vercel.app/VOOT.json",
     
 }
 
