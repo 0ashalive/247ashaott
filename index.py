@@ -36,6 +36,7 @@ PLAYLISTS = {
     "vootplayer": "https://allplaylist.vercel.app/VOOT.json",
     "mxplayerhindi": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/maxplayerall.json",
     "mxplayeren": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/maxplayerenglish.json",
+    "request":"https://allplaylist.vercel.app/request.m3u",
     
 }
 
