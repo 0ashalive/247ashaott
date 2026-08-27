@@ -8,7 +8,7 @@ PLAYLISTS = {
     "icc": "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u",
 "z5": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/z5.m3u",
 "jtv": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u",
-"AOsports": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/AOsports.m3u",
+"aosports": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/AOsports.m3u",
 "axsports": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
 "ottplus": "https://drive.usercontent.google.com/u/0/uc?id=1SJi5LT5bQ1ZHT5eYQM3VOYuNB6U-mYCB&export=download",
 "sonyliv": "https://allplaylist.vercel.app/sony_liv.m3u",
