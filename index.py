@@ -23,6 +23,7 @@ PLAYLISTS = {
 "dish": "https://drive.usercontent.google.com/u/0/uc?id=1v71hpQ0wmJXrrjgrANtPQGtZ4Q6RgdJa&export=download",
 "dis": "https://drive.usercontent.google.com/u/0/uc?id=1Qk2wGwj0A3Mw7DB92d8EogTrqmoGpuFu&export=download",
 "netflix2": "https://allplaylist.vercel.app/NETFIX_2.json",
+    "cartoon": "https://allplaylist.vercel.app/CARTOON_MOVIES.json",
     
 }
 
