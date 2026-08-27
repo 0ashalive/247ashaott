@@ -24,8 +24,10 @@ PLAYLISTS = {
 "dis": "https://drive.usercontent.google.com/u/0/uc?id=1Qk2wGwj0A3Mw7DB92d8EogTrqmoGpuFu&export=download",
 "netflix2": "https://allplaylist.vercel.app/NETFIX_2.json",
     "cartoon": "https://allplaylist.vercel.app/CARTOON_MOVIES.json",
-    "tending":"https://allplaylist.vercel.app/TRENDING.json",
-    "south":"https://allplaylist.vercel.app/SOUTH_DUBBED.json",
+    "tending": "https://allplaylist.vercel.app/TRENDING.json",
+    "south": "https://allplaylist.vercel.app/SOUTH_DUBBED.json",
+    "hollywood": "https://allplaylist.vercel.app/HOLLYWOOD.json",
+    "hindi": "https://allplaylist.vercel.app/NEW_MOVIES.json",
     
 }
 
