@@ -41,7 +41,7 @@ PLAYLISTS = {
     "tamilv1": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels.m3u",
     "sunnxt1": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
     "dangal1": "https://3ty8.short.gy/udpf_dangalplus.m3u",
-    "bdtataplay": "https://drive.usercontent.google.com/u/0/uc?id=10iYNCDX5dwMv5qgZTAr0qUDsEuYaA0ir&export=download",
+    "bdtataplay": "https://drive.usercontent.google.com/u/0/uc?id=1h49qJe5_c8WTwAai622nIK7DhUfByjHI&export=download",
     
     
 }
