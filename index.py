@@ -20,6 +20,8 @@ PLAYLISTS = {
 "roarzone": "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u",
 "pk": "https://playlists-by-playztv.pages.dev/c-pkk.m3u",
 "in": "https://raw.githubusercontent.com/bddeveloperyt/rriptv/refs/heads/main/waves.m3u",
+"dish": "https://drive.usercontent.google.com/u/0/uc?id=1v71hpQ0wmJXrrjgrANtPQGtZ4Q6RgdJa&export=download",
+"dis": "https://drive.usercontent.google.com/u/0/uc?id=1Qk2wGwj0A3Mw7DB92d8EogTrqmoGpuFu&export=download",
     
 }
 
