@@ -36,11 +36,11 @@ PLAYLISTS = {
     "vootplayer": "https://allplaylist.vercel.app/VOOT.json",
     "mxplayerhindi": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/maxplayerall.json",
     "mxplayeren": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/maxplayerenglish.json",
-    "request":"https://allplaylist.vercel.app/request.m3u",
-    "etvwin":"https://drive.usercontent.google.com/u/0/uc?id=10iYNCDX5dwMv5qgZTAr0qUDsEuYaA0ir&export=download",
-    "tamilv1":"https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels.m3u",
-    "sunnxt":"https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
-    "dangal","https://3ty8.short.gy/udpf_dangalplus.m3u",
+    "request": "https://allplaylist.vercel.app/request.m3u",
+    "etvwin1": "https://drive.usercontent.google.com/u/0/uc?id=10iYNCDX5dwMv5qgZTAr0qUDsEuYaA0ir&export=download",
+    "tamilv1": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/channels.m3u",
+    "sunnxt1": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
+    "dangal1": "https://3ty8.short.gy/udpf_dangalplus.m3u",
     
 }
 
