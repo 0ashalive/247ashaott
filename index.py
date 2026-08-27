@@ -28,6 +28,11 @@ PLAYLISTS = {
     "south": "https://allplaylist.vercel.app/SOUTH_DUBBED.json",
     "hollywood": "https://allplaylist.vercel.app/HOLLYWOOD.json",
     "hindi": "https://allplaylist.vercel.app/NEW_MOVIES.json",
+    "hotstarplayer": "https://allplaylist.vercel.app/HOTSTAR.json",
+    "aprimeplayer": "https://allplaylist.vercel.app/AMAZON_PRIME.json",
+    "sonylivplayer": "https://allplaylist.vercel.app/SONY_LIV.json",
+    "zee5player": "https://allplaylist.vercel.app/ZEE5.json",
+    "mxplayer": "https://allplaylist.vercel.app/MX_PLAYER.json",
     
 }
 
