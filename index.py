@@ -25,6 +25,7 @@ PLAYLISTS = {
 "netflix2": "https://allplaylist.vercel.app/NETFIX_2.json",
     "cartoon": "https://allplaylist.vercel.app/CARTOON_MOVIES.json",
     "tending":"https://allplaylist.vercel.app/TRENDING.json",
+    "south":"https://allplaylist.vercel.app/SOUTH_DUBBED.json",
     
 }
 
