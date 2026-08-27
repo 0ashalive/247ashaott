@@ -4,13 +4,23 @@ import urllib.request
 
 # Dynamic playlist mapping (id -> source URL)
 PLAYLISTS = {
+    
     "icc": "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u",
-    "z5": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/z5.m3u",
-    "jtv": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u",
-    "AOsports": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/AOsports.m3u",
+"z5": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/z5.m3u",
+"jtv": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u",
+"AOsports": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/AOsports.m3u",
 "axsports": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
 "ottplus": "https://drive.usercontent.google.com/u/0/uc?id=1SJi5LT5bQ1ZHT5eYQM3VOYuNB6U-mYCB&export=download",
 "sonyliv": "https://allplaylist.vercel.app/sony_liv.m3u",
+"zongmobiletv": "https://raw.githubusercontent.com/bddeveloperyt/rriptv/refs/heads/main/zongmobiletv.m3u",
+"sports2": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8",
+"yupp": "https://raw.githubusercontent.com/Mehedi-Hasan-404/yupp/refs/heads/main/playlist.m3u",
+"sp": "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/Canal_SP.m3u",
+"kids": "https://drive.usercontent.google.com/u/0/uc?id=1ldtN9AUnmJidxK4SrM3C-xDwsuxw4Nlh&export=download",
+"roarzone": "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u",
+"pk": "https://playlists-by-playztv.pages.dev/c-pkk.m3u",
+"in": "https://raw.githubusercontent.com/bddeveloperyt/rriptv/refs/heads/main/waves.m3u",
+    
 }
 
 # Default playlist ID if none is provided in the URL query
