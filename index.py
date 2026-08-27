@@ -42,7 +42,8 @@ PLAYLISTS = {
     "sunnxt1": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
     "dangal1": "https://3ty8.short.gy/udpf_dangalplus.m3u",
     "bdtataplay": "https://drive.usercontent.google.com/u/0/uc?id=1h49qJe5_c8WTwAai622nIK7DhUfByjHI&export=download",
-    
+    "beinarlive":"https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/playlist.m3u",
+    "tntlive":"https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/ts3/playlist.m3u",
     
 }
 
