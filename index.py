@@ -26,15 +26,7 @@ BROWSER_USER_AGENTS = [
 
 # Media player User-Agent keywords to bypass browser redirection
 MEDIA_PLAYER_AGENTS = [
-    "vlc",
-    "kodi",
-    "iptv",
-    "tivimate",
-    "ottplay",
-    "ffmpeg",
-    "curl",
-    "python-urllib",
-    "mpv",
+
     "okhttp",
 ]
 
