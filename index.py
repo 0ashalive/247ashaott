@@ -34,6 +34,8 @@ PLAYLISTS = {
     "zee5player": "https://allplaylist.vercel.app/ZEE5.json",
     "mxplayer": "https://allplaylist.vercel.app/MX_PLAYER.json",
     "vootplayer": "https://allplaylist.vercel.app/VOOT.json",
+    "mxplayerhindi": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/maxplayerall.json",
+    "mxplayeren": "https://raw.githubusercontent.com/0ashalive/h2o/refs/heads/main/maxplayerenglish.json",
     
 }
 
