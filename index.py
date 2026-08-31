@@ -47,6 +47,7 @@ PLAYLISTS = {
     "liveevents1":"https://sportzfys.streamit.workers.dev/?url=https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u",
 "liveevents2":"https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8",
 "combolive":"https://raw.githubusercontent.com/Mrbotrx/All-FREE-TV/refs/heads/main/combined_playlist.m3u",
+    "tatav2": "http://66.102.126.10:8000/playlist.m3u",
     
 }
 
