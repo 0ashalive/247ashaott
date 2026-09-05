@@ -53,7 +53,7 @@ PLAYLISTS = {
     "cricftp": "https://allplaylist.vercel.app/cricleott.json",
     "uncutvip": "https://allplaylist.vercel.app/UNCUT.json",
     "voovivip": "https://allplaylist.vercel.app/VOOVI.json",
-    "alttvip": "https://allplaylist.vercel.app/ALTT.json",
+    "vipaltt": "https://allplaylist.vercel.app/ALTT.json",
 }
 
 # Default playlist ID if none is provided in the URL query
