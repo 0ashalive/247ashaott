@@ -51,9 +51,9 @@ PLAYLISTS = {
     "ulluott": "https://allplaylist.vercel.app/ULLU_OTT.json",
     "ashamovies":"https://allplaylist.vercel.app/latestmovie.json",
     "cricftp": "https://allplaylist.vercel.app/cricleott.json",
+    "vipaltt": "https://allplaylist.vercel.app/ALTT.json",
     "uncutvip": "https://allplaylist.vercel.app/UNCUT.json",
     "voovivip": "https://allplaylist.vercel.app/VOOVI.json",
-    "vipaltt": "https://allplaylist.vercel.app/ALTT.json",
 }
 
 # Default playlist ID if none is provided in the URL query
