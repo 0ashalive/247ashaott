@@ -4,7 +4,7 @@ import urllib.request
 
 # Dynamic playlist mapping (id -> source URL)
 PLAYLISTS = {
-    
+    "hotsports": "https://drive.usercontent.google.com/u/0/uc?id=1y7PPKjhnhDZktA_HQxXfQns_dZWJG5Er&export=download",
     "icc": "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u",
 "z5": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/z5.m3u",
 "jtv": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u",
@@ -54,7 +54,7 @@ PLAYLISTS = {
     "vipaltt": "https://allplaylist.vercel.app/ALTT.json",
     "uncutvip": "https://allplaylist.vercel.app/UNCUT.json",
     "voovivip": "https://allplaylist.vercel.app/VOOVI.json",
-    "hotsports": "https://drive.usercontent.google.com/u/0/uc?id=1y7PPKjhnhDZktA_HQxXfQns_dZWJG5Er&export=download",
+    
 }
 
 # Default playlist ID if none is provided in the URL query
