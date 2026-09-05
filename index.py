@@ -49,8 +49,8 @@ PLAYLISTS = {
 "combolive":"https://raw.githubusercontent.com/Mrbotrx/All-FREE-TV/refs/heads/main/combined_playlist.m3u",
     "tatav2": "http://66.102.126.10:8000/playlist.m3u",
     "ulluott": "https://allplaylist.vercel.app/ULLU_OTT.json",
-    "ashamovies":"https://allplaylist.vercel.app/letestmoves.json",
-    "cricftp": "https://allplaylist.vercel.app/cricftp.json",
+    "ashamovies":"https://allplaylist.vercel.app/latestmovie.json",
+    "cricftp": "https://allplaylist.vercel.app/cricleott.json",
 }
 
 # Default playlist ID if none is provided in the URL query
