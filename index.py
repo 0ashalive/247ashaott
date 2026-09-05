@@ -54,6 +54,7 @@ PLAYLISTS = {
     "vipaltt": "https://allplaylist.vercel.app/ALTT.json",
     "uncutvip": "https://allplaylist.vercel.app/UNCUT.json",
     "voovivip": "https://allplaylist.vercel.app/VOOVI.json",
+    "hotsports": "https://drive.usercontent.google.com/u/0/uc?id=1y7PPKjhnhDZktA_HQxXfQns_dZWJG5Er&export=download",
 }
 
 # Default playlist ID if none is provided in the URL query
