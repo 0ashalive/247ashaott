@@ -49,13 +49,11 @@ PLAYLISTS = {
 "combolive":"https://raw.githubusercontent.com/Mrbotrx/All-FREE-TV/refs/heads/main/combined_playlist.m3u",
     "tatav2": "http://66.102.126.10:8000/playlist.m3u",
     "ulluott": "https://allplaylist.vercel.app/ULLU_OTT.json",
-    "ashamovies":"https://allplaylist.vercel.app/latestmovie.json",
+    "ashamovies":"https://247movies-rho.vercel.app/",
     "cricftp": "https://allplaylist.vercel.app/cricleott.json",
     "vipaltt": "https://allplaylist.vercel.app/ALTT.json",
     "uncutvip": "https://allplaylist.vercel.app/UNCUT.json",
     "voovivip": "https://allplaylist.vercel.app/VOOVI.json",
-    "257":"https://drive.usercontent.google.com/u/0/uc?id=1y7PPKjhnhDZktA_HQxXfQns_dZWJG5Er&export=download",
-    "":"",
     
 }
 
